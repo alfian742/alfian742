@@ -2,7 +2,7 @@
 
 🎓 Fresh graduate in Informatics Engineering  
 💻 Passionate Web Developer & Enthusiastic UI/UX Designer  
-🌱 Currently exploring: Laravel | CodeIgniter | React  
+🌱 Currently exploring: Laravel | CodeIgniter 4  
 📍 Based in Indonesia
 
 ---
